@@ -1,0 +1,9 @@
+html, body {
+	background: url("/images/Github1.jpg") center;
+}
+
+.button {
+	height: 50px;
+	margin-top: 25%;
+	margin-left: 45%;
+}
